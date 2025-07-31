@@ -1,6 +1,6 @@
 # 👩‍💻 Perfil Pessoal - Anna Laura
 
-Este é um projeto de página de **perfil pessoal** desenvolvido com **HTML** e **CSS**. A proposta é apresentar de forma elegante informações profissionais, acadêmicas e redes sociais de Anna Laura, com um layout limpo e responsivo.
+Este é um projeto de página de **perfil pessoal** desenvolvido com **HTML** e **CSS**. A proposta é apresentar de forma elegante informações profissionais, acadêmicas e redes sociais, com um layout limpo e responsivo.
 
 ---
 
