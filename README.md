@@ -15,7 +15,6 @@ Este é um projeto de página de **perfil pessoal** desenvolvido com **HTML** e 
 ---
 
 ## 📸 Capturas de Tela
-> *(Adicione imagens reais do projeto se possível)*  
 > ![Captura da página](https://github.com/annafreitass/Perfil-pessoal/blob/main/img1.png)  
 
 ---
