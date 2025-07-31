@@ -1,0 +1,136 @@
+body {
+    background-image: url('https://static.vecteezy.com/ti/fotos-gratis/p2/4519307-fundo-gradiente-amarelo-laranja-e-rosa-gratis-foto.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+header {
+    padding: 20px 0;
+}
+
+.titulo-h1 {
+    color: #fff;
+    text-align: center;
+    text-shadow: 4px 4px 5px rgba(0,0,0,0.3);
+    margin: 0;
+    font-size: 2rem;
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    width: 500px;
+    max-width: 90%;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(255,255,255,0.3);
+    margin: -30px 0 0;
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #ff7b54;
+    margin: 0 auto 20px;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.nome {
+    color: #ff7b54;
+    display: flex;
+    justify-content: center;
+    margin: 0 0 10px 0;
+    font-size: 1.8rem;
+    font-weight: bold;
+}
+
+.info-section {
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.subtitulo {
+    color: #333;
+    margin: 0 0 15px 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.habilidades-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.habilidade {
+    background-color: #ff7b54;
+    color: white;
+    padding: 6px 15px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+
+.formacao {
+    color: #555;
+    line-height: 1.6;
+    margin: 10px 0 0 0;
+}
+
+.instituicao {
+    font-weight: bold;
+    color: #333;
+}
+
+.fa-graduation-cap {
+    color: #ff7b54;
+    margin-right: 5px;
+}
+
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 25px;
+}
+
+.rede-social {
+    width: 35px;
+    height: 35px;
+    transition: all 0.3s ease;
+    filter: drop-shadow(0 2px 2px rgba(0,0,0,0.2));
+}
+
+.rede-social:hover {
+    transform: scale(1.15) translateY(-3px);
+    filter: drop-shadow(0 4px 4px rgba(0,0,0,0.3));
+}
+
+.icons{
+    color: #FA2577;
+}
+
